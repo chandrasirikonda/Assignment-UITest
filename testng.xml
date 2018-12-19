@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Active Admin Depot">
+ 
+ <test name="ActiveAdminDepot">
+
+ <classes>
+ <class name="com.automationui.basetest.BaseTest" /> 
+ <class name="com.automationui.test.Testcase" /> 
+ </classes> 
+ </test>
+ </suite>  

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Page Object Model Project]">
+  <test thread-count="5" name="ActiveAdminDepot(failed)">
+    <classes>
+      <class name="com.automationui.test.Testcase">
+        <methods>
+          <include name="filtersearch"/>
+          <include name="CreateUser"/>
+          <include name="createuser" invocation-numbers="0 1 2"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.automationui.test.Testcase -->
+    </classes>
+  </test> <!-- ActiveAdminDepot(failed) -->
+</suite> <!-- Failed suite [Page Object Model Project] -->

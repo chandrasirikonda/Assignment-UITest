@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Active Admin Depot" duration-ms="30935" started-at="2018-12-19T06:50:47Z" finished-at="2018-12-19T06:51:18Z">
+    <groups>
+    </groups>
+    <test name="ActiveAdminDepot" duration-ms="30935" started-at="2018-12-19T06:50:47Z" finished-at="2018-12-19T06:51:18Z">
+      <class name="com.automationui.test.Testcase">
+        <test-method status="PASS" signature="CreateUser()[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="CreateUser" is-config="true" duration-ms="4567" started-at="2018-12-19T06:50:47Z" finished-at="2018-12-19T06:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUser -->
+        <test-method status="PASS" signature="createuser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="createuser" duration-ms="11419" started-at="2018-12-19T06:50:52Z" data-provider="userdetails" finished-at="2018-12-19T06:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lindsey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Craft]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rparker@hotma1l.us]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+        <test-method status="PASS" signature="createuser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="createuser" duration-ms="4596" started-at="2018-12-19T06:51:03Z" data-provider="userdetails" finished-at="2018-12-19T06:51:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[McGuire]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[areor maybe@everyma1l.co.uk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+        <test-method status="PASS" signature="createuser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="createuser" duration-ms="4174" started-at="2018-12-19T06:51:08Z" data-provider="userdetails" finished-at="2018-12-19T06:51:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nancy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Stevens]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[awoodward@b1zmail.net]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+        <test-method status="PASS" signature="filtersearch()[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="filtersearch" duration-ms="5784" started-at="2018-12-19T06:51:12Z" finished-at="2018-12-19T06:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filtersearch -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.automationui.test.Testcase@42e26948]" name="closeBrowser" is-config="true" duration-ms="341" started-at="2018-12-19T06:51:18Z" finished-at="2018-12-19T06:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.automationui.test.Testcase -->
+    </test> <!-- ActiveAdminDepot -->
+  </suite> <!-- Active Admin Depot -->
+</testng-results>
